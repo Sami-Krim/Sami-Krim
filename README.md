@@ -16,6 +16,12 @@ I'm Sami KRIM, an AI enthusiast, passionate about crafting intelligent solutions
 
 🔍 [Programming Language Recommendation System](https://github.com/Sami-Krim/ProgLangExpertSystem) - An expert system suggesting programming languages based on user preferences.
 
+## Technologies I Use
+
+- **Languages:** Python, Java, C, UML, Prolog, Matlab
+- **Frameworks & Libraries:** PyQT5, TensorFlow, OpenCV, Django, NodeJS, JavaFX
+- **Data Bases:** SQL, MongoDB, Access
+
 ## Interests
 
 🌟 Machine Learning, artificial intelligence, big data, computer vision, software development.
